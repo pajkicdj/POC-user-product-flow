@@ -10,7 +10,7 @@ from collections import OrderedDict
 
 SCOPES = ['https://www.googleapis.com/auth/analytics.readonly']
 KEY_FILE_LOCATION = './client_secrets.json'
-VIEW_ID = '131733103'
+VIEW_ID = '<REPLACE_WITH_VIEW_ID>'
 
 
 def initialize_analyticsreporting():
