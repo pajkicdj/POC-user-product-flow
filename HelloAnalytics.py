@@ -56,7 +56,7 @@ def get_report(analytics):
   ).execute()
 
 def outputToCSV(response):
-  """Parses and outputs the Analytics Reporting API V4 response to csv file.
+  """Parses and outputs the Analytics Reporting API V4 response to a csv file.
 
   Args:
     response: An Analytics Reporting API V4 response.
