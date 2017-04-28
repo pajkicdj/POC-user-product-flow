@@ -2,7 +2,7 @@
 
 1. Install the client library
 
-```python
+```sh
 sudo pip install --upgrade google-api-python-client
 ```
 
